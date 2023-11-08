@@ -5,5 +5,5 @@
 
 >> ALL BASIC TOPICS COVERED.
 
-- [x] **Variables & Data types**
+- [x] **Basic Syntax, Keywords Variables & Data types**
   > > > `Taking our first step into programming by learning concepts like Input, Output, Variables & Data Types in Java.`
