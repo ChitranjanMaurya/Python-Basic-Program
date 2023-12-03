@@ -6,4 +6,4 @@
 > ALL BASIC TOPICS COVERED.
 
 - [x] **Basic Syntax, Keywords, Variables & Data types**
-> > `Taking our first step into programming by learning basic concepts like Input, Output, keywords, comments, Variables & Data Types in Python.`
+> > >`Taking our first step into programming by learning basic concepts like Input, Output, keywords, comments, Variables & Data Types in Python.`
