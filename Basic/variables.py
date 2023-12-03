@@ -33,3 +33,14 @@ print(t1)
 print(type(t1))
 #Output: (1, 2, 3, 4, 5)
 #Output: <class 'tuple'>
+
+#Type Conversion
+# Converting from one datatype to another type is called 
+#Type conversion/Type Casting
+a = int(input("Enter the value of A : "))
+print("A : ",a)
+print(type(a))
+#Output: Enter the value of A : 
+#Input: 18
+#Output: A :  18
+#Output:<class 'int'>
