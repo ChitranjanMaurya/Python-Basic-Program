@@ -4,6 +4,7 @@
 #4)if age is less than 18 show one msg under age
 #5)if weight is less than 50 show one msg under weight
 #6)if age doesnot match then it should ask for weight
+#Program---
 age = int(input("Enter your Age : "))
 if age>=18:
  weg = int(input("Enter your Weight : "))
