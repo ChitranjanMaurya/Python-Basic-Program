@@ -3,6 +3,7 @@
 #3)Percentage greater or equalto 60 and Less than 65 == 2st Class
 #4)Percentage greater or equalto 55 and Less than 60 == 3st Class
 #5)Percentange less than 55 == Fail
+#Program---
 p = int(input("Enter your percentange : "))
 if p>=70:
  print("Dist")
