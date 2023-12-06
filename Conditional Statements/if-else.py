@@ -10,8 +10,8 @@ else:  #Else part call
 
 x = 25
 y = 30
-if x<y: # Condition True
+if x<y:  #  Condition True
  print("Y is greater")
 else:
  print("X is greater")
- #Output: Y is greater
+#Output: Y is greater
