@@ -1,8 +1,8 @@
-# 1) Percentange greater than 70 == Dist
-# 2) Percentage greater or equalto 65 and Less than 70 == 1st Class
-# 3) Percentage greater or equalto 60 and Less than 65 == 2st Class
-# 4) Percentage greater or equalto 55 and Less than 60 == 3st Class
-# 5) Percentange less than 55 == Fail
+#1)Percentange greater than 70 == Dist
+#2)Percentage greater or equalto 65 and Less than 70 == 1st Class
+#3)Percentage greater or equalto 60 and Less than 65 == 2st Class
+#4)Percentage greater or equalto 55 and Less than 60 == 3st Class
+#5)Percentange less than 55 == Fail
 p = int(input("Enter your percentange : "))
 if p>=70:
  print("Dist")
