@@ -12,7 +12,7 @@
   > > > `Operators are an integral part of Python and we will be using them in almost all of our codes.`
 
 - [x] **Conditional statements**
-  > > > `Not everything in life is unconditional like a mother's love. We only pass an exam after scoring 33, classes only happen during day time. Conditional Statements teach us how to convert this logic into code`
+  > > > `Not everything in life is unconditional like a mother's love. We only pass an exam after scoring 33, classes only happen during day time. Conditional Statements teach us how to convert this logic into code.`
 
 - [x] **Loops**
   > > > `We have to do some things again & again & again & again.. How to repeat work in code with minimum lines of code.`
