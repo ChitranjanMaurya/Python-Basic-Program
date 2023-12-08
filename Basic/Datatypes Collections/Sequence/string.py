@@ -37,3 +37,31 @@ print("Last Value : ",a[-1])
 #Output: Index between 1 to 6 : ello 
 #Output: Index till 6 : Hello P
 #Output: Last Value : n
+
+#String In-Built Methods
+# Capitalize() : This method converts the first Character in String
+a = "hello and welcome to learnvern"
+x = a.capitalize()
+print(x)
+#Output: Hello and welcome to learnvern
+
+# Casefold() : This method convert all Capital letter into small
+a = "Hello and Welcome to Learnvern"
+x = a.casefold()
+print(x)
+#Output: hello and welcome to learnvern
+
+# Center() : This is use to bring your into center 
+a = "Python"
+print(a)
+x = a.center(20)
+# Update using center method
+print(x)
+#Output: Python
+#Output:        Python 
+ 
+# Count() : This method is used to count the repeated word in String
+a = "I love Python, Python is a smart language"
+x = a.count("Python")
+print(x)
+#Output: 2
