@@ -16,10 +16,10 @@
 
 - [x] **Loops**
   > > > `We have to do some things again & again & again & again.. How to repeat work in code with minimum lines of code.`
-<!--
+
 - [x] **Patterns**
   > > > `This is Patterns. We will build some beautiful patterns using nested loops. In this section we are going to learn about more advanced patterns.`
-- [x] **Functions & Methods**
+<!-- - [x] **Functions & Methods**
   > > > `Functions are a group of reusable code that can be called from anywhere in the program.`
 - [x] **Arrays**
   > > > `We will learn about our first Data Structure - Array.`
