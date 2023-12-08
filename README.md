@@ -20,9 +20,9 @@
 - [x] **Patterns**
   > > > `This is Patterns. We will build some beautiful patterns using nested loops. `
 <!-- In this section we are going to learn about more advanced patterns. -->
-<!-- - [x] **Functions & Methods**
+ - [x] **Functions & Methods**
   > > > `Functions are a group of reusable code that can be called from anywhere in the program.`
-- [x] **Arrays**
+<!-- - [x] **Arrays**
   > > > `We will learn about our first Data Structure - Array.`
 - [x] **Sorting Algorithms**
   > > > `Sorting is arranging things in a defined order. Here, we will learn some techniques to do so in Java.`
