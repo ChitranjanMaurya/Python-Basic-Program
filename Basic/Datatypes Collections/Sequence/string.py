@@ -5,3 +5,13 @@ print('Hello World')
 print("Hello World")
 #Output: Hello World
 #Output: Hello World
+
+#Multiline String
+a = """Python is booming in the Market,
+Python is smart language,
+Python is used in AI,Machine Learning,Data Science
+"""
+print(a)
+#Output: Python is booming in the Market,
+#Output: Python is smart language,
+#Output: Python is used in AI,Machine Learning,Data Science
