@@ -22,6 +22,8 @@
 <!-- In this section we are going to learn about more advanced patterns. -->
  - [x] **Functions & Methods**
   > > > `Functions are a group of reusable code that can be called from anywhere in the program.`
+ - [x]. **File Handling**
+ > > > `In this section we will learn how to open a file, write to the file, append to a file and close it.`
 <!-- - [x] **Arrays**
   > > > `We will learn about our first Data Structure - Array.`
 - [x] **Sorting Algorithms**
