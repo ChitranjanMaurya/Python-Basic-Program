@@ -23,7 +23,7 @@ print(type(e))
 #Output: <class 'bool'>
 
 #3.Set Datatype
-f = {'a','b''c'}
+f = {'a','b','c'}
 print(type(f))
 #Output: <class 'set'>
 
